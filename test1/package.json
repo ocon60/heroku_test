@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/ocon60/heroku_test/issues"
   },
-  "homepage": "https://github.com/ocon60/heroku_test"
+  "homepage": "https://github.com/ocon60/heroku_test",
+  "dependencies": {
+    "logfmt": "~0.18.1",
+    "express": "~3.4.8"
+  }
 }
