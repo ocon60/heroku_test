@@ -1,0 +1,24 @@
+{
+  "name": "test1",
+  "version": "0.0.0",
+  "description": "1st node test on heroku",
+  "main": "node_test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ocon60/heroku_test"
+  },
+  "keywords": [
+    "heroku",
+    "test",
+    "ocon60"
+  ],
+  "author": "Big-C",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ocon60/heroku_test/issues"
+  },
+  "homepage": "https://github.com/ocon60/heroku_test"
+}
