@@ -1,0 +1,25 @@
+{
+  "name": "test2",
+  "version": "0.0.0",
+  "description": "2nd attemp at node filserver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@heroku.com:aqueous-journey-3827.git"
+  },
+  "keywords": [
+    "ocon60",
+    "test",
+    "2"
+  ],
+  "author": "Big-C",
+  "license": "MIT",
+  "dependencies": {
+    "logfmt": "~0.20.0",
+    "express": "~3.4.8"
+  }
+}
